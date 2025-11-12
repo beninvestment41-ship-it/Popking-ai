@@ -1,0 +1,41 @@
+PopKing AI: The All-in-One Personalized AI Companion
+PopKing AI is a powerful, feature-rich web application designed to be the ultimate personalized AI toolkit. It consolidates multiple AI capabilities—from deep research and creative art generation to study assistance and coding support—into a single, dark-themed, and highly customizable interface.
+✨ Features at a Glance
+🗂️ Multi-Mode Workflow
+Instantly switch the AI's core functionality and grounding via dedicated modes:
+Quick Chat: Casual conversation and fast, concise answers.
+Deep Search: Web-grounded, live information retrieval and detailed explanations.
+Creative Mode: Brainstorming, stories, jokes, and art idea generation.
+Study Mode: Summarization, flashcard creation, and quiz generation.
+Code Mode: Programming explanations, debugging, and sample code snippets.
+Life Coach Mode: Motivational guidance and personal advice.
+🎭 Customizable Personalities
+Tailor the AI's tone and style to your needs with switchable Personas:
+Friendly
+Motivational
+Strict Tutor
+Funny
+Creative
+Analytical
+🎨 Media & Interaction
+Image Generation: Create realistic, cartoon, and anime art using imagen-4.0-generate-001.
+Voice I/O: Text-to-Speech (TTS) for audio feedback and Speech-to-Text (STT) input.
+💾 Persistence & Engagement
+History & Favorites (Firestore): Securely save and export chats, generated images, and study notes.
+Crown Rewards: An internal points system to reward active usage and unlock future features/themes.
+Daily Challenges: Engaging prompts (quiz, riddle, coding task) to encourage daily interaction.
+🛠️ Technology Stack
+PopKing AI is built as a single-page application (SPA) using a modern, scalable stack:
+Frontend: React with functional components and hooks.
+Styling: Tailwind CSS for responsive, utility-first dark mode design.
+Core AI Models:
+gemini-2.5-flash-preview-09-2025 (Text, Search, Study, Code)
+gemini-2.5-flash-preview-tts (Text-to-Speech)
+imagen-4.0-generate-001 (Image Generation)
+Database: Firebase Firestore for persistence (User History, Favorites, Rewards).
+🚀 Setup and Installation (For Developers)
+To run PopKing AI locally, follow these steps.
+Prerequisites
+Node.js (v18+) and npm
+A Google AI Studio API Key
+A Firebase Project (with Firestore and Authentication enabled
