@@ -1,0 +1,32 @@
+Welcome! We are excited you're interested in helping build the ultimate AI companion. To ensure a smooth process for everyone, please follow these guidelines.
+1. How to Report Bugs
+If you find something broken, please open a new issue on GitHub and:
+Use the label bug.
+Provide a clear, descriptive title (e.g., "Deep Search Mode crashes on mobile screens").
+Describe the steps to reproduce the bug (e.g., click sequence, input prompt).
+Include your operating system and browser versions.
+2. Suggesting Features
+We welcome new ideas! If you want to propose a significant new feature or enhancement:
+Open an issue with the label enhancement.
+Explain the "why"—what problem does this feature solve for the user?
+Describe the proposed solution and how it fits into the existing UI (e.g., a new button, a setting, a new chat mode).
+3. Contributing Code
+For code contributions, please follow the Forking Workflow:
+Fork the repository to your own GitHub account.
+Clone your fork locally: git clone https://github.com/[YOUR-USERNAME]/popking-ai.git
+Create a new branch for your feature or fix (e.g., git checkout -b feature/tts-speaker-select).
+Make your changes, following the established file structure and style (e.g., use modern React hooks, Tailwind CSS).
+Commit your changes with clear, descriptive messages.
+Push your branch to your fork.
+Open a Pull Request (PR) against the main branch of the official PopKing AI repository.
+Pull Request (PR) Requirements:
+Single Focus: PRs should address a single bug or feature.
+Tests: If applicable, include unit tests for new or changed logic.
+Documentation: Update the README.md or any relevant internal comments if your change impacts usage or functionality.
+4. Code Style & Standards
+We use the following standards:
+Language: JavaScript/TypeScript (React).
+Styling: Tailwind CSS only.
+Functionality: Use modern functional components and hooks.
+Comments: Use JSDoc-style comments for complex functions and API interfaces.
+Thank you for contributing 
